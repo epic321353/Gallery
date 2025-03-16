@@ -1,7 +1,7 @@
 export default function Header() {
     return (
-        <div className="bg-amber-50 w-full sticky top-0">
-            <header className="bg-stone-900 text-white py-4">
+        <div className="bg-stone-900 w-full sticky top-0">
+            <header className="bg-stone-900 text-white py-4 mr-20 ml-20">
                 <nav className="flex justify-between pl-5 pr-5">
                     <div className="font-bold text-3xl flex justify-between w-35">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-9">
