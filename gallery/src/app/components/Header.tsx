@@ -1,6 +1,6 @@
 export default function Header() {
     return (
-        <div className="bg-stone-900 w-full sticky top-0">
+        <div className="bg-stone-900 w-full sticky top-0 z-10">
             <header className="bg-stone-900 text-white py-4 mr-20 ml-20">
                 <nav className="flex justify-between pl-5 pr-5">
                     <div className="font-bold text-3xl flex justify-between w-35">
